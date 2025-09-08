@@ -3,7 +3,7 @@ def proverbs_22_29():
 
     # Author - Faith Lamah
     # Date - 09/01/2025
-    # Title - Program A: Modified Hello Part II
+    # Title - Program A: Modified Hello Part II.
 
     print('“Do you see a man skillful in his work?')
     print('He will stand before kings;')

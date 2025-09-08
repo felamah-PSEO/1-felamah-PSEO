@@ -4,7 +4,7 @@ def hello_world():
 
     #Author - Faith Lamah
     #Date - 09/01/2025
-    #Title - Program A: Modified Hello Part I
+    #Title - Program A: Modified Hello Part I.
     print('Hello World')
 
 hello_world()
