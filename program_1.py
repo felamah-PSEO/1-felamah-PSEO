@@ -4,7 +4,7 @@ def hello_world():
 
     # Author - Faith
     # Date - 09/01/2025
-    # Date - 09/01/25
+    # Date - 09/01/2025
     # Title - Program A: Modified Hello Part I.
     print('Hello World')
 

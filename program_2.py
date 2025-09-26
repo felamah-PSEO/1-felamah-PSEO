@@ -1,7 +1,7 @@
 def proverbs_22_29():
     # Write your Proverbs 22:29 code below
     # Author - Faith Lamah
-    # Date - 09/01/25
+    # Date - 09/01/2025
     # Date - 09/01/2025
     # Title - Program A: Modified Hello Part II.
 
